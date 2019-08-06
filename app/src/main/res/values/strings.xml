@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Splash Portafolio</string>
+    <string name="title_tv">Modelos Splash</string>
+    <string name="btn_model_one">Model One</string>
+    <string name="btn_model_two">Model Two</string>
+    <string name="btn_model_three">Model Three</string>
+    <string name="btn_model_four">Model Four</string>
+    <string name="btn_model_five">Model Five</string>
+    <string name="btn_model_six">Model Six</string>
+    <string name="one_tv">Model One</string>
+</resources>
